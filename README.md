@@ -1,2 +1,6 @@
 # CodeKatas
-Solutions for Coding Katas from codekata.com using C# and TDD
+Solutions for common coding Katas using C# and TDD
+
+Katas sourced from:
+  1. kata-log.rocks
+  2. codekata.com 
